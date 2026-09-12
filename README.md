@@ -1,6 +1,6 @@
-# Hiver SDE Intern Assignment - AppleSupport AI Agent
+# Apple-Chat: AI Support Agent for AppleSupport
 
-This repository contains an AI support agent designed to handle Twitter customer support queries for **AppleSupport**. It classifies intents, drafts replies grounded in historical knowledge via RAG, and decides whether an issue should be escalated to a human.
+A personal project exploring how to build a grounded, retrieval-augmented AI agent for customer support. This system handles Twitter-style support queries directed at **AppleSupport** — it classifies intent, drafts replies grounded in historical knowledge via RAG, and decides whether an issue should be escalated to a human.
 
 ## Setup Instructions
 
